@@ -1,0 +1,10 @@
+colorama==0.4.6
+sounddevice==0.4.7
+numpy==2.1.2
+SpeechRecognition==3.10.4
+PyAudio==0.2.14
+setuptools
+pyttsx3==2.90
+pygame==2.5.2
+edge-tts
+wikipedia==1.4.0
